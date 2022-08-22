@@ -1,6 +1,4 @@
-module github.com/not-rusty/go-sumtype
-
-go 1.19
+module github.com/BurntSushi/go-sumtype
 
 require (
 	github.com/stretchr/testify v1.3.0
